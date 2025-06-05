@@ -1,0 +1,130 @@
+<!-- css/styles.css of 2026-jan.bauska.org -->
+body {
+  font-family:Helvetica;
+}
+table {
+  table-layout:fixed;
+  width:70%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.month-header {
+  background-image:url("https://2026-jan.bauska.org/images/mst3k-chicks-600.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:300px;
+  text-align:right;
+}
+
+h1 {
+  color:#FFF;
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-top:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+/* padding-bottom:150px; */
+.copyright-notice {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
+
+.weekday-header {
+  background-color:#999;  /* dark gray */
+  border-color:#ddd;  /* very light gray */
+  border-style:solid;
+  letter-spacing:1px;
+  line-height:25px;
+}
+.week {
+  background-color:#ffff00;  /* eaeaea = very light gray */
+  height:75px;
+  margin:0;
+  text-align:left;
+  vertical-align:top;
+}
+
+.off-day {
+  background-color:#ddd;  /* very light gray */
+}
+
+ul {
+    font-size:75%;
+    list-style:none;
+    padding-left:20px;
+    padding-right:5px;
+}
+
+.event {
+    border-radius:5px;
+    color:#10171c;  /* very dark (mostly black) blue */
+    padding:5px;
+    margin:5px 0;
+}
+
+.new-years {
+    background-color:#e8e193;  /* very soft yellow */
+}
+.natl-spaghetti {
+    background-color:#c2e7e7;  /* light grayish cyan */
+}
+.natl-bird {
+    background-color:#e0cb97;  /* very soft orange */
+}
+.golden-globe {
+    background-color:#ffe6cd;  /* very pale orange */
+}
+.natl-bobblehead {
+    background-color:#ffcde6;  /* very pale pink */
+}
+.natl-jimmy-carter {
+    background-color:#cde6ff;  /* very pale blue */
+}
+.natl-milk {
+    background-color:#d3d3d3;  /* very light gray */
+}
+.kiss-ginger {
+    background-color:#bf80ff;  /* very light violet */
+}
+.natl-hat {
+    background-color:#ffd9b4;  /* pale orange */
+}
+.winnie-the-pooh {
+    background-color:#ffe6b4;  /* pale orange */
+}
+.natl-popcorn {
+    background-color:#ff9999;  /* very light red */
+}
+.inauguration {
+    background-color:#e7edff;  /* very pale blue */
+}
+.natl-hug {
+    background-color:#98fb98;  /* very soft lime green */
+}
+.natl-pie {
+    background-color:#a6f4ff;  /* pale cyan */
+}
+.australia {
+    background-color:#ffc0cb;  /* very pale red (pink) */
+}
+.chinese-new-year {
+    background-color:#ffff9a;  /* pale yellow */
+}
+.natl-croissant {
+    background-color:#d3d3d3;  /* light gray */
+}
+.natl-hot-chocolate {
+    background-color:#00ff00;  /* pure lime green */
+}
