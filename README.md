@@ -1,2 +1,2 @@
-# 2026-jan
-2026-jan calendar.
+# 2026-Jan
+Calendar for January, 2026.
