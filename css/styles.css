@@ -89,11 +89,17 @@ ul {
 .natl-bobblehead {
     background-color:#ffcde6;  /* very pale pink */
 }
-.natl-jimmy-carter {
-    background-color:#cde6ff;  /* very pale blue */
+.law-enforcement-apprec {
+  background-color:#cecece;  /* light gray */
 }
 .natl-milk {
     background-color:#d3d3d3;  /* very light gray */
+}
+.human-trafficking {
+  background-color:#89ff89  /* very light lime green */
+}
+.randy-bd {
+  background-color:#ff3333  /* vivid red */
 }
 .kiss-ginger {
     background-color:#bf80ff;  /* very light violet */
@@ -101,14 +107,17 @@ ul {
 .natl-hat {
     background-color:#ffd9b4;  /* pale orange */
 }
+.religious-freedom {
+  background-color:#ff6vff  /* very light magenta */
+}
 .winnie-the-pooh {
     background-color:#ffe6b4;  /* pale orange */
 }
+.ml-king {
+    background-color:#d96b6b;  /* soft red */
+}
 .natl-popcorn {
     background-color:#ff9999;  /* very light red */
-}
-.inauguration {
-    background-color:#e7edff;  /* very pale blue */
 }
 .natl-hug {
     background-color:#98fb98;  /* very soft lime green */
@@ -116,14 +125,29 @@ ul {
 .natl-pie {
     background-color:#a6f4ff;  /* pale cyan */
 }
-.australia {
+.intl-day-of-education {
+    background-color:#60ff60;  /* light lime green */
+}
+.natl-complement {
     background-color:#ffc0cb;  /* very pale red (pink) */
 }
-.chinese-new-year {
+.natl-peanutbutter {
     background-color:#ffff9a;  /* pale yellow */
 }
-.natl-croissant {
+.robert-burns {
     background-color:#d3d3d3;  /* light gray */
+}
+.australia {
+    background-color:#60ff60;  /* light lime green */
+}
+.data-privacy {
+    background-color:#a6f4ff;  /* pale cyan */
+}
+.kansas {
+    background-color:#60ff60;  /* light lime green */
+}
+.natl-croissant {
+    background-color:#ff9999;  /* very light red */
 }
 .natl-hot-chocolate {
     background-color:#00ff00;  /* pure lime green */
