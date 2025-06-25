@@ -101,11 +101,14 @@ a:hover {
   color: #990000;  /* crimson */
 }
 a:hover::after {
-  width: 80%;
+  width: 85%;
 }
 
 <!-- World, National & International Days -->
 .newYears {
+    background-color:#f1bdbd;  /* very soft red */
+}
+.new-Years {
     background-color:#f1bdbd;  /* very soft red */
 }
 .natl-spaghetti {
